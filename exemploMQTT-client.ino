@@ -5,7 +5,7 @@
 
 //WiFi
 const char* SSID = "brisa-322556"; 
-const char* PASSWORD = "9la2o3le"; 
+const char* PASSWORD = "********"; 
 WiFiClient wifiClient;     
 Servo myservo; 
                    
